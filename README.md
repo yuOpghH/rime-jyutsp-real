@@ -1,6 +1,6 @@
 # rime-jyutsp-real
 
-   以真雙拼碼表實現 [jyutsp粵語雙拼](https://github.com/MrCorn0-0/jyutsp/) 的雙拼，非以拼寫運算。
+   以真雙拼碼表實現 [jyutsp粵語雙拼](https://github.com/MrCorn0-0/jyutsp/) 的純雙拼方案，非以拼寫運算。
    
    不依賴任何其他方案，甚至連反查不需要、反查文檔都可以不需要。（提供反查文檔自助選擇下載適用）
    
