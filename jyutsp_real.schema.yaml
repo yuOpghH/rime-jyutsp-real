@@ -72,7 +72,7 @@ speller:
   alphabet: zyxwvutsrqponmlkjihgfedcba[]\ZYXWVUTSRQPONMLKJIHGFEDCBA;
   delimiter: " `" #"`" #" '"
   algebra:
-    - derive/^([a-z]).+$/$1/           # 簡拼（首字母）
+    #- derive/^([a-z]).+$/$1/           # 簡拼（首字母）
     - derive/^([z])([a-z;])$/v$2/  便捷打
     - derive/^([c])([a-z;])$/i$2/  便捷打
     - derive/^([s])([a-z;])$/u$2/  便捷打
