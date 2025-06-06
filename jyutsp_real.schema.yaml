@@ -9,7 +9,7 @@ schema:
     - jyutsp < MrCorn0-0 >
     - LeiMaau <leimaau@qq.com>
   description: |
-   以真雙拼碼表實現jyutsp的雙拼，非以拼寫運算。不依賴任何文件，甚至不要連反查文件都可以不需要。
+   以真雙拼碼表實現jyutsp的雙拼，非以拼寫運算。不依賴任何文檔，甚至不要連反查文檔都可以不需要。
    無有固定字最簡詞表 。反查：Q:倉頡反查 W:粵拼反查 E:普拼反查（假如有的話）
   dependencies:
     - luna_pinyin
