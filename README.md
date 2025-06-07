@@ -21,7 +21,12 @@
 
 [![zhihu]](https://www.zhihu.com/question/54691506/answer/1022245649)
 
-[zhihu]:https://pic2.zhimg.com/80/v2-c7ea6ffcfe550d4bc31ef38a27e5edfd_720w.jpg "碼表"
+[zhihu]:https://github.com/yuOpghH/rime-jyutsp-goi/blob/main/%E5%B1%95%E7%A4%BA/keyboard.jpg "碼表"
+
+- 鍵位與原雙拼方案碼表的差異：
+  - j鍵開頭的音節變成以y鍵輸出為主
+  - j鍵兼容j鍵聲母輸出(而非兼容z鍵)
+  - v鍵兼容z鍵聲母輸出
 
 # 學習文檔
 沿用[jyutsp_goi粵語雙拼倉頡輔助碼輸入法](https://github.com/yuOpghH/rime-jyutsp_goi)的說明文檔：
