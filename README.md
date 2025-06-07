@@ -1,4 +1,4 @@
-# rime-jyutsp-real jyutsp-real 粵語雙拼輸入法（純雙拼真雙拼方案）
+# rime-jyutsp-real 粵語雙拼輸入法（純雙拼真雙拼方案）
 
    以真雙拼碼表實現 [jyutsp粵語雙拼](https://github.com/MrCorn0-0/jyutsp/) 的純雙拼方案，非以拼寫運算。
    
