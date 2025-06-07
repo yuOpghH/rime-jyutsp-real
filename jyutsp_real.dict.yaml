@@ -21,10 +21,38 @@ columns:
   - weight
 #encoder:
 import_tables:
-  - forjyut.jyut
-  - forjyut.jyutsp
-  - forjyut.jyutgongyik
+  - forjyut.jyutseon
+  - forjyut.jyutspseon
+  - forjyut.jyutgongyikseon
 ...
+##
+阿	a	ea	999999
+不	b	bc	999954
+才	c	cy	999957
+的	d	dk	999980
+唉	e	ev	999997
+發	f	fc	999978
+個	g	go	999975
+係	h	hl	999972
+愛	i	oi	999987
+有	j	yb	999991
+佢	k	kx	999967
+了	l	lq	999966
+冇	m	mu	999945
+你	n	nz	999950
+哦	o	ro	999986
+跑	p	pn	999985
+啊	q	ea	999999
+嗯	r	rr	999942
+是	s	si	999983
+他	t	ta	999995
+我	u	ro	999988
+這	v	ze	999955
+會	w	wx	999999
+掛	x	xa	999958
+一	y	yc	999992
+在	z	zy	9999630
+##
 潽	pu			
 鿐	zb		604	4406
 #掩	eg			
