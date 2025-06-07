@@ -24,6 +24,9 @@
 - 感謝以下項目的無私貢獻及項目成果。可能有遺漏敬請原諒。
  - 鍵盤設置來源 [jyutsp粵語雙拼](https://github.com/MrCorn0-0/jyutsp/)
 
+- android trime skin
+ - [下載](https://github.com/yuOpghH/rime-jyutsp-goi/tree/main/trime) ，部署即可。
+ - [預覽](https://github.com/yuOpghH/rime-jyutsp-goi/blob/main/%E5%B1%95%E7%A4%BA/trime.jpg)
 # 輸入編碼
 ## 碼表
 
