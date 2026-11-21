@@ -1,5 +1,9 @@
 # rime-jyutsp-real 粵語雙拼輸入法（純雙拼真雙拼方案）
+<div align="center">
 
+######  真雙拼+無模型方案(本方案) | [真雙拼+有模型方案](https://github.com/yuOpghH/rime-jyutsp-real-model)
+
+</div>
    以真雙拼碼表實現 [jyutsp粵語雙拼](https://github.com/MrCorn0-0/jyutsp/) 的純雙拼方案，非以拼寫運算。
    
    原則上不依賴任何其他方案，甚至連反查不需要、反查文檔都可以不需要。（提供反查文檔自助選擇下載適用）
